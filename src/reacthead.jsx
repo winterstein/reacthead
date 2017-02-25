@@ -31,7 +31,7 @@ class HeadTag extends React.Component {
 	}
 
 	render() {
-		return <div />; //{this.props.tag} {this.props.sel} {JSON.stringify(this.props.attr)}</div>;
+		return (<div />);
 	}
 }
 
