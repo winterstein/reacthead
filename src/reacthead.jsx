@@ -5,6 +5,9 @@
 import React from 'react';
 import $ from 'jquery';
 
+/**
+ * Common core for the tags
+ */
 class HeadTag extends React.Component {
 	componentWillMount() {
 		const {sel,tag,attr} = this.props;
