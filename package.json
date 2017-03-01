@@ -1,7 +1,7 @@
 {
   "name": "reacthead",
-  "version": "0.1.1",
-  "description": "Modify the page <head> with React jsx tags in any component. Set title, Facebook OpenGraph, metadata, etc.",
+  "version": "0.1.2",
+  "description": "Modify the page <head> with React jsx tags in any component. Set title, etc.",
   "main": "./bin/reacthead.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +10,9 @@
 		"react",
 		"head",
 		"react-head",
+		"react-helmet",
+		"helmet",
 		"title",
-		"opengraph",
-		"og",
 		"link",
 		"meta"
 	],

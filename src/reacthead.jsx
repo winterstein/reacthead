@@ -1,5 +1,5 @@
 /** 
- * Set head info, e.g. title or Facebook og: properties for sharing, from within the body. 
+ * Set head info, e.g. title from within the body. 
  * These tags work by modifying the html head.
 */
 import React from 'react';
